@@ -425,22 +425,3 @@ project-root/
 - **package.json**: Defines the project dependencies and scripts.
 
 This structure separates concerns, making it easier to maintain
-
-## A Fun Note to Superjoin
-
-Hey Superjoin team! 👋
-
-Wow, what a ride this assignment has been! 🎢 I've got to say, syncing Google Sheets and PostgreSQL in real-time was like trying to teach my cat to fetch – challenging, but oh so rewarding when it finally worked! 😺
-
-This task was more fun than a barrel of monkeys 🐒 (or should I say, a spreadsheet of data?). I found myself doing the "debug dance" 💃 more times than I'd like to admit, but each successful sync felt like scoring a touchdown in the Super Bowl of coding! 🏈
-
-I've learned so much, from wrangling with Google's API (which felt like solving a Rubik's cube blindfolded 🧊) to making PostgreSQL and Google Sheets play nice together (like getting cats and dogs to have a tea party ☕️).
-
-Thank you for this fantastic opportunity to flex my coding muscles 💪 and dive deep into the world of real-time data synchronization. It was a blast, and I hope my solution brings a smile to your faces as you review it! 😄
-
-Looking forward to potentially joining the Superjoin team and tackling even more exciting challenges together! 🚀
-
-Cheers,
-Vishal
-
-P.S. If my synchronization works perfectly, I'll consider changing my middle name to "Real-Time"! ⏱️😄
